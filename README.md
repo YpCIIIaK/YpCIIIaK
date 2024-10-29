@@ -1,4 +1,4 @@
-### ReactJS developer
+### ReactJS Frontend developer 
 ### Languages 
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#61DAFB)
