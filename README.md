@@ -6,3 +6,4 @@
 ![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-tailwindcss-090909?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=06B6D4)
