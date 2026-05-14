@@ -1,6 +1,26 @@
 ### Frontend developer | Bots | Automation | Scripts | AI
 
-## 🛠 Технологии
+# 👋 Hi, I'm a Frontend Developer
+
+**1.5+ years of experience** building web apps, trading tools, chatbots, and browser extensions.
+
+> 🎯 Looking for a **Frontend / Fullstack** role (with a focus on AI & automation) in a small product team
+
+
+---
+
+### 🔗 Quick Navigation
+
+[![Tech](https://img.shields.io/badge/-Tech_Stack-2d2d2d?style=for-the-badge)](#-tech-stack)
+[![Focus](https://img.shields.io/badge/-Key_Focus-2d2d2d?style=for-the-badge)](#-key-focus-areas)
+[![Projects](https://img.shields.io/badge/-Projects-2d2d2d?style=for-the-badge)](#-projects)
+[![Education](https://img.shields.io/badge/-Education-2d2d2d?style=for-the-badge)](#-education)
+[![About](https://img.shields.io/badge/-About_Me-2d2d2d?style=for-the-badge)](#-about-me)
+[![Contact](https://img.shields.io/badge/-Contact-2d2d2d?style=for-the-badge)](#-contact)
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
@@ -40,80 +60,66 @@
 ![OpenAI](https://img.shields.io/badge/-OpenRouter_API-090909?style=for-the-badge&logo=OpenAI&logoColor=412991)
 ![VK](https://img.shields.io/badge/-VK_API-090909?style=for-the-badge&logo=VK&logoColor=0077FF)
 
-# 👋 Привет, я Frontend-разработчик
+---
 
-**1,5+ года опыта** в разработке веб-приложений, торговых инструментов, чат-ботов и браузерных расширений.
+## 🚀 Key Focus Areas
 
-> 🎯 Ищу роль **Frontend / Fullstack** (с акцентом на ИИ и автоматизацию) в небольшой продуктовой команде
+- **Frontend & UI/UX** — complex SPAs, responsive layouts, animations
+- **Trading Tools** — crypto analytics, backtesting, trading bots
+- **Chrome Extensions** — automation, parsers, platform UI enhancements
+- **Bots & Integrations** — Telegram/VK bots, payment systems, AI assistants
+- **AI Products** — multi-agent systems, RAG, usage analytics
 
 ---
 
-## 🛠 Стек технологий
+## 💼 Projects
 
-**Frontend:** JavaScript, TypeScript, React, Next.js, Vue 3, Tailwind CSS, BEM  
-**Backend:** PHP 8.4 (Symfony 8), Doctrine ORM, Node.js, Python  
-**Инструменты:** Git, Docker, MySQL, Chrome Extension API (MV3)  
-**Визуализация:** Lightweight Charts, Chart.js, D3.js  
-**Интеграции:** REST API, Webhooks, OpenRouter API, Telegram Bot API, VK API, Robokassa
+### 🤖 AI Multi-Agent Platform *(in development)*
+Web tool for AI agent interactions featuring a visual chain builder, RAG, usage analytics, and various interaction modes (debates, collaboration). Integration via OpenRouter API.
 
----
+### 📈 Vortan — Crypto Tools *(4+ months, core team)*
+Frontend/fullstack development of crypto analytics and trading bot tools.  
+✅ **Advanced to Google Accelerator Stage 2** — received server resources for a year.
 
-## 🚀 Ключевые направления
+### 🧩 Chrome Extensions for Trading *(2+ months)*
+Extensions for TraderNet and Binance: enhanced UI, additional metrics, automation, API integration. Also utilities: data parser, CSS detector, UI block copier.
 
-- **Frontend & UI/UX** — сложные SPA, адаптивная вёрстка, анимации
-- **Торговые инструменты** — криптоанализ, бэктестинг, торговые боты
-- **Chrome Extensions** — автоматизация, парсеры, улучшение UI платформ
-- **Боты и интеграции** — Telegram/VK-боты, платёжные системы, AI-ассистенты
-- **AI-продукты** — мультиагентные системы, RAG, аналитика
+### 🤖 Telegram Bots — YourTar *(~6 months)*
+Bots for a retail store, online psychology school, and gym: reporting, notifications, admin panels. Implemented AI-powered report automation.
 
----
+### 🎨 Portfolio & Mini-Apps *(7+ months)*
+React + Tailwind: canvas sandbox, music visualizer, Notion clone, browser effects library.
 
-## 💼 Проекты
-
-### 🤖 Платформа мульти-агентов ИИ *(в разработке)*
-Веб-инструмент для взаимодействия ИИ-агентов с визуальным конструктором цепочек, RAG, аналитикой использования и различными режимами взаимодействия (дебаты, совместная работа). Интеграция через OpenRouter API.
-
-### 📈 Vortan — криптоинструменты *(4+ мес, core-команда)*
-Frontend/fullstack разработка инструментов для криптоаналитики и торговых ботов.  
-✅ **Прошли во 2-й этап акселератора Google** — получили серверные ресурсы на год.
-
-### 🧩 Chrome-расширения для трейдинга *(2+ мес)*
-Расширения для TraderNet и Binance: улучшенный UI, дополнительные метрики, автоматизация, интеграция с API. Также утилиты: парсер данных, детектор CSS, копировщик UI-блоков.
-
-### 🤖 Telegram-боты — YourTar *(~6 мес)*
-Боты для офлайн-магазина, онлайн-школы и спортзала: отчётность, уведомления, админ-панели. Внедрил автоматизацию отчётов с ИИ.
-
-### 🎨 Портфолио и мини-приложения *(7+ мес)*
-React + Tailwind: canvas-песочница, визуализатор музыки, клон Notion, библиотека браузерных эффектов.
-
-### 💻 Стажировка — Paraweb *(1 мес)*
-Production-разработка: вёрстка, компоненты, баг-фиксы. Опыт Git-flow и code review.
+### 💻 Internship — Paraweb *(1 month)*
+Production development: layouts, components, bug fixes. Experience with Git-flow and code review.
 
 ---
 
-## 🎓 Образование
+## 🎓 Education
 
-**Бакалавриат «Программная инженерия»** — ТУСУР, Россия *(2028)*  
-Также обучался по IT-программам в ТГУ и AITU (Казахстан).
+**Bachelor's in Software Engineering** — TUSUR, Russia *(2028)*  
+Also studied in IT programs at TSU (Russia) and AITU (Kazakhstan).
 
 ---
 
-## 📜 Сертификаты
+## 📜 Certificates & Achievements
 
 - Udemy: «Complete JavaScript + React Course»
-- **Google Accelerator** — 2-й этап (AI-проект)
+- **Google Accelerator** — Stage 2 (AI project)
 
 ---
 
-## ⚡ О себе
+## ⚡ About Me
 
-Увлекаюсь современным frontend'ом, UI/UX и практическими инструментами ИИ. Люблю быстро выводить фичи в продакшен и улучшать по фидбеку. Больше всего нравятся проекты с веб-интерфейсом и «живым» взаимодействием с данными и ИИ.
+Passionate about modern frontend, UI/UX, and practical AI & automation tools. Love shipping features fast and iterating based on user feedback. Most excited about projects with web interfaces and live user interaction with data and AI.
 
-**Хобби:** 🏀 баскетбол, 🎿 горные лыжи, 🏊 плавание, 🏋️ фитнес
+**Hobbies:** 🏀 basketball, 🎿 skiing, 🏊 swimming, 🏋️ fitness
 
 ---
 
-## 📫 Контакты
+## 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bigboyvova)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolioypshak.vercel.app/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bigboyvova)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioypshak.vercel.app/)
+
+---
