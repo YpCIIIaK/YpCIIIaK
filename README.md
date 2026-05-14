@@ -1,4 +1,4 @@
-### ReactJS Frontend developer | Bots | Automation | Scripts | AI
+### Frontend developer | Bots | Automation | Scripts | AI
 
 ## 🛠 Технологии
 
