@@ -115,5 +115,5 @@ Production-разработка: вёрстка, компоненты, баг-ф
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bigboyvova)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolioypshak.vercel.app/)
