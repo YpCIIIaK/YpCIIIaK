@@ -1,5 +1,4 @@
-### ReactJS Frontend developer 
-### Languages 
+### ReactJS Frontend developer | Bots | Automation | Scripts | AI
 
 ## 🛠 Технологии
 
