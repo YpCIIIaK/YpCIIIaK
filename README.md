@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm a Frontend Developer
 
-**1.5+ years of experience** building web apps, trading tools, chatbots, and browser extensions.
+**2+ years of experience** building web apps, trading tools, chatbots, and browser extensions.
 
 > 🎯 Looking for a **Frontend / Fullstack** role (with a focus on AI & automation) in a small product team
 
