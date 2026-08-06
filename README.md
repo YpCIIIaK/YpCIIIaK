@@ -1,4 +1,5 @@
-![@YpCIIIaK — Frontend / Fullstack](public/resume-card.png)
+![@YpCIIIaK — Frontend / Fullstack](https://raw.githubusercontent.com/YpCIIIaK/repo-janitor/main/public/resume-card.png)
+
 
 ### Frontend developer | Bots | Automation | Scripts | AI
 
