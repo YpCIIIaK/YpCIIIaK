@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<img width="1000" height="2500" alt="YpCIIIaK-card (1)" src="https://github.com/user-attachments/assets/618b6bbb-3503-4c24-8cc4-f30e5c03d5b7" />![U<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="2500" viewBox="0 0 1000 2500" role="img" aria-label="@YpCIIIaK — Frontend / Fullstack">
 <title>@YpCIIIaK — Frontend / Fullstack</title>
 <defs>
@@ -472,7 +472,8 @@
 <text x="625.6" y="2411" fill="#26a5e4" font-family="Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="0.1em">TELEGRAM</text>
 <text x="625.6" y="2428" fill="#c2cbd6" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" text-anchor="middle">@bigboyvova</text>
 <rect x="0.5" y="0.5" width="999" height="2499" rx="20" fill="none" stroke="#252c37" stroke-width="1"/>
-</svg>
+</svg>ploading YpCIIIaK-card (1).svg…]()
+
 ### Frontend developer | Bots | Automation | Scripts | AI
 
 # 👋 Hi, I'm a Frontend Developer
