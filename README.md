@@ -28,14 +28,5 @@
 </table>
 
 
-<a href="https://repo-anti-rot.onrender.com/">
-  <img
-    width="760"
-    height="260"
-    alt="Repo Anti-Rot"
-    src="https://github.com/user-attachments/assets/b300d93a-bcb3-4275-8e6e-a6b4a0f63b98"
-  />
-</a>
 
-
-<img width="830" height="280" alt="repo-anti-rot-card (1)" src="https://github.com/user-attachments/assets/6621ee7b-386d-4270-bb20-5f262b3dc51c" />
+<a href="https://repo-anti-rot.onrender.com/"><img width="850" height="420" alt="repo-anti-rot-card (2)" src="https://github.com/user-attachments/assets/b00ad554-d764-4b30-b5d4-7817ef35401f" /></a>
