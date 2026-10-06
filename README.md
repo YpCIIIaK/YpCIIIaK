@@ -1,7 +1,7 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  Три проекта — от кибербезопасности до автоматического аудита репозиториев
+  Three projects — from cybersecurity to automated repository auditing
 </p>
 
 <table align="center">
@@ -9,34 +9,34 @@
     <td width="33%" align="center" valign="top">
       <h3>🛡️ Cyber Security</h3>
       <p>
-        Интерактивный проект о кибербезопасности,
-        цифровых угрозах и защите данных.
+        An interactive project about cybersecurity,
+        digital threats, and data protection.
       </p>
       <br>
       <a href="https://ypciiiak.github.io/cyber-sec/">
-        <strong>Открыть проект →</strong>
+        <strong>Explore Project →</strong>
       </a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🧹 Repo Anti-Rot</h3>
       <p>
-        Инструмент для аудита репозиториев
-        и обнаружения технического устаревания.
+        A repository auditing tool designed to detect
+        technical decay and maintenance issues.
       </p>
       <br>
       <a href="https://repo-anti-rot.onrender.com/">
-        <strong>Запустить аудит →</strong>
+        <strong>Run an Audit →</strong>
       </a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>💻 Developer Portfolio</h3>
       <p>
-        Мои проекты, технологии, опыт
-        и информация обо мне.
+        My projects, technologies, experience,
+        and information about me.
       </p>
       <br>
       <a href="https://ypciiiaksportfolio.vercel.app/">
-        <strong>Открыть портфолио →</strong>
+        <strong>View Portfolio →</strong>
       </a>
     </td>
   </tr>
