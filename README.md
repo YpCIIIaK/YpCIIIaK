@@ -4,4 +4,4 @@
 
 <a href="https://ypciiiak.github.io/custom-readme/"><img width="850" height="300" alt="profile-card (5)" src="https://github.com/user-attachments/assets/572bef83-bc1b-4ee9-92c3-fcbacf9c66d0" /></a>
 
-<img width="410" height="410" alt="profile-card (7)" src="https://github.com/user-attachments/assets/ddf55723-575f-4a49-9047-c50e6e9b384a" />   <img width="410" height="410" alt="profile-card (8)" src="https://github.com/user-attachments/assets/4be625a0-4274-4cad-8164-00239c8caaaa" />
+<img width="420" height="420" alt="profile-card (7)" src="https://github.com/user-attachments/assets/ddf55723-575f-4a49-9047-c50e6e9b384a" />  <img width="420" height="420" alt="profile-card (8)" src="https://github.com/user-attachments/assets/4be625a0-4274-4cad-8164-00239c8caaaa" />
