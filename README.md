@@ -1,3 +1,4 @@
+<img width="830" height="280" alt="repo-anti-rot-card (1)" src="https://github.com/user-attachments/assets/c3cdc344-3639-45b0-b0af-f99714a9d036" />
 <h1 align="center">Featured Projects</h1>
 
 <p align="center">A curated collection of things I build, explore, and improve.</p>
@@ -36,3 +37,6 @@
     src="https://github.com/user-attachments/assets/b300d93a-bcb3-4275-8e6e-a6b4a0f63b98"
   />
 </a>
+
+
+<img width="830" height="280" alt="repo-anti-rot-card (1)" src="https://github.com/user-attachments/assets/6621ee7b-386d-4270-bb20-5f262b3dc51c" />
