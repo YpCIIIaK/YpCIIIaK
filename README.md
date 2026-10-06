@@ -1,4 +1,3 @@
-<img width="830" height="280" alt="repo-anti-rot-card (1)" src="https://github.com/user-attachments/assets/c3cdc344-3639-45b0-b0af-f99714a9d036" />
 <h1 align="center">Featured Projects</h1>
 
 <p align="center">A curated collection of things I build, explore, and improve.</p>
